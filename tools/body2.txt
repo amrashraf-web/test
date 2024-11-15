@@ -1,0 +1,13 @@
+<html>
+<head></head>
+    <body>
+    <p>Amora</p>
+    <h1>#Signetures_Var#</h1>
+    <h1>#NAME#</h1>
+    <h1>#INVOCIE#</h1>
+    <h1>#PRODUCT#</h1>
+    <h1>#NUMBER#</h1>
+    <h1>#TEXT#</h1>
+    <h1>#DATE#</h1>
+    </body>
+</html>
